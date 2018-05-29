@@ -1,0 +1,49 @@
+/* Name: Meg Doyle
+*  Date: May 29, 2018
+*  Lab: Innovative Women  */
+
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    width: 100%;
+    background-color: white;
+    margin: 15px auto;
+    border: 1px solid black;
+}
+
+header {
+    border-bottom: 2px solid #4286f4;
+}
+
+#sidebarA {
+    width: 20%;
+    float: left;
+    border-right: 4px solid #4286f4;
+}
+
+main {
+    width: 50%;
+    float: left;
+}
+
+#sidebarB {
+    width: 20%;
+    float: left;
+    border-left: 2px solid #4286f4;
+}
+
+#sidebarA, main, #sidebarB {
+height: 700px;
+padding: 20px;
+}
+
+footer {
+    clear: both;
+    border-top: 2px solid #4286f4;
+}
+#middleimg2 {
+	width:40%;
+}
